@@ -1,5 +1,5 @@
 # simple-infinite-list
-A simple infinite loader leveraging a IntersectionObserver and written in React Typescript
+A simple, dumb implementation of a non-virtualized infinite loader leveraging a IntersectionObserver and written in React Typescript
 
 Prop | Description | Type
 ------------ | ------------- | -------------

@@ -7,5 +7,5 @@ loadMoreFunc | async function called when the IntersectionObserver is intersecti
 mappingFunc | function used to map the values | `(vals:any[]) => JSX.Element[]`
 direction | direction to scroll, a CSS flex-direction | `'row' 'row-reverse' 'column' 'column-reverse'`
 pageSize | expected length of the array, used to determine whether the upstream has more items to fetch | `number`
-noDupes | whether or not the list will filter for perfectly identical objects | `boolean`
+noDupes | whether or not the list will filter for perfectly identical objects | `boolean` *optional
   
